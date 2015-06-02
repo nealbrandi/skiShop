@@ -1,0 +1,27 @@
+application.name = Catalogo Prodotti
+
+ean = EAN
+name = Nome
+description = Descrizione
+
+products.details = Prodotto: {0}
+products.form = Dettagli Prodotto
+products.list = Catalogo della Merce
+products.list.navigation = Prodotti
+products.new = (nuovo)
+products.new.command = Nuovo
+products.new.submit = Aggiungere
+products.new.success = Prodotto è stato aggiunto {0}.
+products.edit.command = Modifica
+products.edit.submit = Aggiornare
+products.update.success = Prodotto con successo modificato {0}.
+
+constraint.required = Richiesto
+
+error.number = Valore non numerico immesso
+error.required = Valore mancante per campo obbligatorio
+
+format.numeric = Numerico
+
+validation.errors = Si prega di correggere gli errori nel modulo.
+validation.ean.duplicate = Un prodotto con questo codice EAN esiste già.
